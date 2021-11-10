@@ -1,4 +1,4 @@
-package menusystem;
+package me.zrageyh.paginatedinventory.menusystem;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

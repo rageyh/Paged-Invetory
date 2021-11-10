@@ -1,4 +1,4 @@
-package menusystem;
+package me.zrageyh.paginatedinventory.menusystem;
 
 import org.bukkit.event.inventory.InventoryClickEvent;
 import org.bukkit.event.inventory.InventoryCloseEvent;
