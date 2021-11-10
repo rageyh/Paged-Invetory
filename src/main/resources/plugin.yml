@@ -1,0 +1,6 @@
+name: PaginatedInventory
+version: '${project.version}'
+main: me.zrageyh.paginatedinventory.PaginatedInventory
+api-version: 1.15
+authors: [ zRageyh_ ]
+description: Paginated Inventory for minecraft
